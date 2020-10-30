@@ -1,4 +1,4 @@
-</script>
+<script>
 
 function redirectCU(e) {
   if (e.ctrlKey && e.which == 85) {
